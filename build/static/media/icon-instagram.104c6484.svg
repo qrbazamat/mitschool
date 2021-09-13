@@ -1,0 +1,20 @@
+<svg id="Сгруппировать_10" data-name="Сгруппировать 10" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64.994" height="64.995" viewBox="0 0 64.994 64.995">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.951" y1="0.049" x2="0.06" y2="0.94" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff592c"/>
+      <stop offset="0.482" stop-color="#ff2ca0"/>
+      <stop offset="1" stop-color="#0e3a99"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.43" y1="-0.43" x2="-0.407" y2="1.407" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="2.502" y1="-1.502" x2="-1.454" y2="2.454" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="5.348" y1="-4.347" x2="-7.991" y2="8.989" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Сгруппировать_8" data-name="Сгруппировать 8" transform="translate(0)">
+    <path id="Контур_6" data-name="Контур 6" d="M315.538,215.938H290.352a19.927,19.927,0,0,1-19.9-19.906V170.848a19.927,19.927,0,0,1,19.9-19.9h25.185a19.927,19.927,0,0,1,19.9,19.9v25.185A19.927,19.927,0,0,1,315.538,215.938Zm-25.185-62.581a17.509,17.509,0,0,0-17.49,17.49v25.185a17.51,17.51,0,0,0,17.49,17.491h25.185a17.511,17.511,0,0,0,17.491-17.491V170.848a17.51,17.51,0,0,0-17.491-17.49Z" transform="translate(-270.448 -150.943)" fill="url(#linear-gradient)"/>
+  </g>
+  <g id="Сгруппировать_9" data-name="Сгруппировать 9" transform="translate(16.736 16.736)">
+    <path id="Контур_7" data-name="Контур 7" d="M308.826,166.878H295.464a9.091,9.091,0,0,0-9.081,9.081v13.362a9.091,9.091,0,0,0,9.081,9.081h13.362a9.09,9.09,0,0,0,9.079-9.081V175.959A9.09,9.09,0,0,0,308.826,166.878Zm5.864,22.443a5.871,5.871,0,0,1-5.864,5.864H295.464a5.87,5.87,0,0,1-5.864-5.864V175.959a5.87,5.87,0,0,1,5.864-5.864h13.362a5.87,5.87,0,0,1,5.864,5.864Z" transform="translate(-286.383 -166.878)" fill="url(#linear-gradient-2)"/>
+    <path id="Контур_8" data-name="Контур 8" d="M301.74,174.916a7.32,7.32,0,1,0,7.32,7.319A7.328,7.328,0,0,0,301.74,174.916Zm0,11.275a3.955,3.955,0,1,1,3.954-3.955A3.959,3.959,0,0,1,301.74,186.191Z" transform="translate(-285.979 -166.474)" fill="url(#linear-gradient-3)"/>
+    <path id="Контур_9" data-name="Контур 9" d="M309.3,171.893a2.171,2.171,0,1,0,2.171,2.172A2.171,2.171,0,0,0,309.3,171.893Z" transform="translate(-285.34 -166.626)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>
