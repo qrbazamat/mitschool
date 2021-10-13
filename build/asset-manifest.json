@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.998e5a1a.chunk.css",
-    "main.js": "./static/js/main.59faf51b.chunk.js",
-    "main.js.map": "./static/js/main.59faf51b.chunk.js.map",
+    "main.css": "./static/css/main.73b716d9.chunk.css",
+    "main.js": "./static/js/main.c202f62d.chunk.js",
+    "main.js.map": "./static/js/main.c202f62d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.503c7569.js",
     "runtime-main.js.map": "./static/js/runtime-main.503c7569.js.map",
-    "static/css/2.f2512455.chunk.css": "./static/css/2.f2512455.chunk.css",
-    "static/js/2.a6c5fca1.chunk.js": "./static/js/2.a6c5fca1.chunk.js",
-    "static/js/2.a6c5fca1.chunk.js.map": "./static/js/2.a6c5fca1.chunk.js.map",
+    "static/css/2.4a7cbe2c.chunk.css": "./static/css/2.4a7cbe2c.chunk.css",
+    "static/js/2.a11e7ef0.chunk.js": "./static/js/2.a11e7ef0.chunk.js",
+    "static/js/2.a11e7ef0.chunk.js.map": "./static/js/2.a11e7ef0.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/2.f2512455.chunk.css.map": "./static/css/2.f2512455.chunk.css.map",
-    "static/css/main.998e5a1a.chunk.css.map": "./static/css/main.998e5a1a.chunk.css.map",
-    "static/js/2.a6c5fca1.chunk.js.LICENSE.txt": "./static/js/2.a6c5fca1.chunk.js.LICENSE.txt",
+    "static/css/2.4a7cbe2c.chunk.css.map": "./static/css/2.4a7cbe2c.chunk.css.map",
+    "static/css/main.73b716d9.chunk.css.map": "./static/css/main.73b716d9.chunk.css.map",
+    "static/js/2.a11e7ef0.chunk.js.LICENSE.txt": "./static/js/2.a11e7ef0.chunk.js.LICENSE.txt",
     "static/media/Abdumalik.30ad687a.png": "./static/media/Abdumalik.30ad687a.png",
     "static/media/AzamatQurbanov.9c416a2e.jpg": "./static/media/AzamatQurbanov.9c416a2e.jpg",
     "static/media/Azizbek.86a0ac6e.png": "./static/media/Azizbek.86a0ac6e.png",
@@ -38,6 +38,7 @@
     "static/media/map_uzb.c156f177.png": "./static/media/map_uzb.c156f177.png",
     "static/media/nodejs.1261604a.svg": "./static/media/nodejs.1261604a.svg",
     "static/media/react-js.4ee8d000.svg": "./static/media/react-js.4ee8d000.svg",
+    "static/media/slick-theme.css": "./static/media/slick.c94f7671.ttf",
     "static/media/today-park.9e618c62.png": "./static/media/today-park.9e618c62.png",
     "static/media/v4.2c91edba.gif": "./static/media/v4.2c91edba.gif",
     "static/media/App.css": "./static/media/wave-gray.f5d8adde.svg",
@@ -45,9 +46,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.503c7569.js",
-    "static/css/2.f2512455.chunk.css",
-    "static/js/2.a6c5fca1.chunk.js",
-    "static/css/main.998e5a1a.chunk.css",
-    "static/js/main.59faf51b.chunk.js"
+    "static/css/2.4a7cbe2c.chunk.css",
+    "static/js/2.a11e7ef0.chunk.js",
+    "static/css/main.73b716d9.chunk.css",
+    "static/js/main.c202f62d.chunk.js"
   ]
 }
