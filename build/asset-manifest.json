@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.6d1081ae.chunk.css",
+    "main.css": "./static/css/main.400b3ce3.chunk.css",
     "main.js": "./static/js/main.2fcb435a.chunk.js",
     "main.js.map": "./static/js/main.2fcb435a.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.503c7569.js",
@@ -10,7 +10,7 @@
     "static/js/2.a36bf01b.chunk.js.map": "./static/js/2.a36bf01b.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.4a7cbe2c.chunk.css.map": "./static/css/2.4a7cbe2c.chunk.css.map",
-    "static/css/main.6d1081ae.chunk.css.map": "./static/css/main.6d1081ae.chunk.css.map",
+    "static/css/main.400b3ce3.chunk.css.map": "./static/css/main.400b3ce3.chunk.css.map",
     "static/js/2.a36bf01b.chunk.js.LICENSE.txt": "./static/js/2.a36bf01b.chunk.js.LICENSE.txt",
     "static/media/Abdumalik.30ad687a.png": "./static/media/Abdumalik.30ad687a.png",
     "static/media/AzamatQurbanov.9c416a2e.jpg": "./static/media/AzamatQurbanov.9c416a2e.jpg",
@@ -68,7 +68,7 @@
     "static/js/runtime-main.503c7569.js",
     "static/css/2.4a7cbe2c.chunk.css",
     "static/js/2.a36bf01b.chunk.js",
-    "static/css/main.6d1081ae.chunk.css",
+    "static/css/main.400b3ce3.chunk.css",
     "static/js/main.2fcb435a.chunk.js"
   ]
 }
