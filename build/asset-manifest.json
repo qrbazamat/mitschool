@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.400b3ce3.chunk.css",
-    "main.js": "./static/js/main.2fcb435a.chunk.js",
-    "main.js.map": "./static/js/main.2fcb435a.chunk.js.map",
+    "main.css": "./static/css/main.40a6758c.chunk.css",
+    "main.js": "./static/js/main.af404043.chunk.js",
+    "main.js.map": "./static/js/main.af404043.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.503c7569.js",
     "runtime-main.js.map": "./static/js/runtime-main.503c7569.js.map",
     "static/css/2.4a7cbe2c.chunk.css": "./static/css/2.4a7cbe2c.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.a36bf01b.chunk.js.map": "./static/js/2.a36bf01b.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.4a7cbe2c.chunk.css.map": "./static/css/2.4a7cbe2c.chunk.css.map",
-    "static/css/main.400b3ce3.chunk.css.map": "./static/css/main.400b3ce3.chunk.css.map",
+    "static/css/main.40a6758c.chunk.css.map": "./static/css/main.40a6758c.chunk.css.map",
     "static/js/2.a36bf01b.chunk.js.LICENSE.txt": "./static/js/2.a36bf01b.chunk.js.LICENSE.txt",
     "static/media/Abdumalik.30ad687a.png": "./static/media/Abdumalik.30ad687a.png",
     "static/media/AzamatQurbanov.9c416a2e.jpg": "./static/media/AzamatQurbanov.9c416a2e.jpg",
@@ -19,12 +19,14 @@
     "static/media/Dilnoza.86a0ac6e.png": "./static/media/Dilnoza.86a0ac6e.png",
     "static/media/Dilshod.1c3f0575.jpg": "./static/media/Dilshod.1c3f0575.jpg",
     "static/media/Elbek.4f818332.png": "./static/media/Elbek.4f818332.png",
+    "static/media/Humoyun.2b1983d7.png": "./static/media/Humoyun.2b1983d7.png",
     "static/media/IT-Center-Logo.262f7bde.svg": "./static/media/IT-Center-Logo.262f7bde.svg",
     "static/media/Islom.1ce9b4b7.png": "./static/media/Islom.1ce9b4b7.png",
     "static/media/Javlon.8089c063.jpg": "./static/media/Javlon.8089c063.jpg",
     "static/media/Javohir.86a0ac6e.png": "./static/media/Javohir.86a0ac6e.png",
     "static/media/Tursunali.86a0ac6e.png": "./static/media/Tursunali.86a0ac6e.png",
     "static/media/Ulmasbek.5f0be538.png": "./static/media/Ulmasbek.5f0be538.png",
+    "static/media/Unknown.86a0ac6e.png": "./static/media/Unknown.86a0ac6e.png",
     "static/media/android-os.1dc9eb94.svg": "./static/media/android-os.1dc9eb94.svg",
     "static/media/apple-logo.26af4da6.svg": "./static/media/apple-logo.26af4da6.svg",
     "static/media/apps.549875d7.svg": "./static/media/apps.549875d7.svg",
@@ -68,7 +70,7 @@
     "static/js/runtime-main.503c7569.js",
     "static/css/2.4a7cbe2c.chunk.css",
     "static/js/2.a36bf01b.chunk.js",
-    "static/css/main.400b3ce3.chunk.css",
-    "static/js/main.2fcb435a.chunk.js"
+    "static/css/main.40a6758c.chunk.css",
+    "static/js/main.af404043.chunk.js"
   ]
 }
