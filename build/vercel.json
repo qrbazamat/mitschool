@@ -1,8 +1,8 @@
 {
   "redirects": [
-    { "source": "/about", "destination": "/" },
+    { "source": "/about", "destination": "/about" },
     { "source": "/contact", "destination": "/" },
     { "source": "/line-chart", "destination": "/" },
-    { "source": "/auth", "destination": "/" }
+    { "source": "/auth/*", "destination": "/" }
   ]
 }
